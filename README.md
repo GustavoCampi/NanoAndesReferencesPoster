@@ -13,3 +13,12 @@ https://doi.org/10.1021/ja2010434, doi:10.1021/ja2010434,
 arXiv:https://doi.org/10.1021/ja2010434. pMID: 21466153
 
 Ceccatto, A., Freiberger, E. M., Waleska, N. J., Jaekel, S., Mowbray, D. J., Papp, C., Steinrück, H.-P., & de Siervo, A. (2023). On-Surface Synthesis of Copper-Pyridyl Coordinated Nanoporous Networks. Small Science Journal. (Submitted) 
+
+Perdew, J.P., Burke, K., Ernzerhof, M., 1996. Generalized gradient approximation made simple. Phys. Rev. Lett. 77, 3865–3868. URL:
+https://link.aps.org/doi/10.1103/PhysRevLett.77.3865,
+doi:10.1103/PhysRevLett.77.3865.
+
+Grimme, S., Antony, J., Ehrlich, S., Krieg, H., 2010. A consistent and accurate
+ab initio parametrization of density functional dispersion correction (DFTD) for the 94 elements H-Pu. The Journal of Chemical Physics 132, 154104.
+URL: https://doi.org/10.1063/1.3382344, doi:10.1063/1.3382344,
+arXiv:https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/1.33823
